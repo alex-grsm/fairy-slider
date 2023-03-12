@@ -18,7 +18,7 @@
 // window.addEventListener('resize', func);
 
 // Фикс фулскрин-блоков
-import './functions/fix-fullheight';
+// import './functions/fix-fullheight';
 
 // Реализация бургер-меню
 // import { burger } from './functions/burger';
